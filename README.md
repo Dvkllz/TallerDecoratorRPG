@@ -7,14 +7,9 @@ El objetivo principal es demostrar cómo añadir responsabilidades y alterar atr
 
 ## Características Principales
 * Implementación pura del Patrón Decorator.
-* Servidor HTTP embebido (sin dependencias externas).
-* Interfaz gráfica interactiva y representaciones visuales construidas con CSS puro.
-* Motor matemático de resolución de daño en el backend.
 
 ## Instrucciones de Ejecución
 1. Abrir una terminal en el directorio del proyecto.
 2. Compilar el código fuente: `javac DarkRPG.java`
 3. Ejecutar el servidor: `java DarkRPG`
 4. Acceder a la interfaz desde el navegador web en: `http://localhost:8080`
-
-Desarrollado como proyecto académico para la aplicación y análisis de Patrones de Software.
